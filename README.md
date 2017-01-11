@@ -1,6 +1,6 @@
-# Sublime config
+# Sublime Wtiter
 
-> A Simple configuration with Sublime Text 3.
+> For geeker, best writing is Sublime.
 >
 > by @Richie
 
