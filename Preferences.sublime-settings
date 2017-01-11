@@ -1,0 +1,57 @@
+{
+	"auto_complete": true,
+	"auto_find_in_selection": true,
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_encoding": "UTF-8",
+	"disable_tab_abbreviations": true,
+	"disable_tab_abbreviations_for_scopes": "text.html.markdown",
+	"draw_centered": false,
+	"draw_minimap_border": true,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+	],
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+	],
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 16,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"rulers":
+	[
+		120,
+		130
+	],
+	"scroll_past_end": false,
+	"scroll_speed": 5.0,
+	"show_encoding": true,
+	"show_full_path": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": false,
+	"wide_caret": true,
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": true,
+	"wrap_width": 120
+}

@@ -1,0 +1,14 @@
+// These settings override both User and Default settings for the Markdown syntax
+{
+    // "color_scheme": "Packages/Predawn/predawn-markdown.tmTheme",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+    "draw_centered": true, // Centers the column in the window
+    "draw_indent_guides": true,
+    "font_size": 13,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true,
+	"line_numbers": true,
+	"highlight_line": true,
+    "wrap_width": 100  // Sets the # of characters per line
+}
+

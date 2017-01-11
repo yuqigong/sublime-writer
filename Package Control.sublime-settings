@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Evernote",
+		"GitHub Markdown Snippets",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Material Theme",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"TrailingSpaces",
+		"Typewriter"
+	]
+}
