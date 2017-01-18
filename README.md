@@ -19,6 +19,7 @@
 - "SideBarEnhancements"
 - "TrailingSpaces"
 - "Typewriter"
+- "Surround"
 
 ## Usage
 
@@ -45,12 +46,20 @@ cp -ri ./ ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 
 > note: Once again, restart Sublime Text. Successful installation.
 
-**Dropbox** *Optional*
+**Dropbox** *(Optional)*
 
 ```Shell
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 mkdir ~/Dropbox/Sublime
 mv User ~/Dropbox/Sublime/
+ln -s ~/Dropbox/Sublime/User
+```
+
+**Other equipment**
+
+```Shell
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+rm -r User
 ln -s ~/Dropbox/Sublime/User
 ```
 
@@ -81,3 +90,12 @@ Open the `Evernote.sublime-settings`, change them:
 [Material theme](https://github.com/equinusocio/material-theme#activate-the-theme)
 
 [Sublime Evernote](https://github.com/bordaigorl/sublime-evernote#first-use)
+
+**Update**
+
+> 2017-01-18
+
+- Add Surround.
+- Add Other equipment.
+
+**License MIT**
